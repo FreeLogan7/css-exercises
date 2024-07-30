@@ -1,0 +1,15 @@
+.click {
+background-color: black;
+color: white;
+}
+
+.no {
+background-color: yellow;
+color: black;
+}
+
+.click
+.no {
+font-size: 28 px;
+font-family: Helvetica, "Times New Roman" ,sans-serif
+}
